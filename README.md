@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maksileon
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 maksileon/maksileon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
